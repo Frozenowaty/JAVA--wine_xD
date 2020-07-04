@@ -1,0 +1,13 @@
+<component name="ArtifactManager">
+  <artifact type="exploded-war" name="wine_xd:war exploded">
+    <output-path>$PROJECT_DIR$/out/artifacts/wine_xd_war_exploded</output-path>
+    <root id="root">
+      <element id="javaee-facet-resources" facet="wine_xd/web/Web" />
+      <element id="directory" name="WEB-INF">
+        <element id="directory" name="classes">
+          <element id="module-output" name="wine_xd" />
+        </element>
+      </element>
+    </root>
+  </artifact>
+</component>

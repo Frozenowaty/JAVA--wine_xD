@@ -1,0 +1,242 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="d061ab74-84d9-4f73-8570-16c491fb8607" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/artifacts/wine_xd_war_exploded.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Hibernate_5_4_11_5_4_11.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/JAX_WS_Glassfish___JAX_WS_2_2_RI___Metro_1_X___JWSDP_2_2.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/JAX_WS_Glassfish___JAX_WS_2_2_RI___Metro_1_X___JWSDP_2_2__2_.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Spring_5_2_3_RELEASE.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Spring_Batch_2_2_6.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Spring_Data_JPA_2_2_4_RELEASE.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Spring_Integration_5_2_3_RELEASE.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Spring_MVC_5_2_3_RELEASE.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Spring_Security_5_2_1.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Spring_Web_Services_2_0_2.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Spring_Webflow_2_4_0.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lib/FastInfoset-1.2.15.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lib/FastInoset.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lib/antlr-2.7.7.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lib/aopalliance-1.0.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lib/byte-buddy-1.10.7.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lib/classmate-1.5.1.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lib/commons-logging-1.2.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lib/dom4j-2.1.1.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lib/gmbal-api-only.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lib/ha-api.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lib/hibernate-commons-annotations-5.1.0.Final.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lib/hibernate-core-5.4.11.Final.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lib/istack-commons-runtime-3.0.7.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lib/jandex-2.1.1.Final.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lib/javassist-3.24.0-GA.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lib/javax.activation-api-1.2.0.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lib/javax.annotation.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lib/javax.persistence-api-2.2.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lib/jaxb-api-2.3.1.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lib/jaxb-api.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lib/jaxb-impl.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lib/jaxb-runtime-2.3.1.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lib/jaxb-xjc.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lib/jaxws-api.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lib/jaxws-rt.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lib/jaxws-tools.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lib/jboss-logging-3.3.2.Final.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lib/jboss-transaction-api_1.2_spec-1.1.1.Final.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lib/jsr181-api.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lib/mail.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lib/management-api.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lib/mimepull.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lib/policy.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lib/saaj-api.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lib/saaj-impl.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lib/spring-aop-5.2.3.RELEASE.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lib/spring-aspects-5.2.3.RELEASE.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lib/spring-batch-core-2.2.6.RELEASE.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lib/spring-batch-infrastructure-2.2.6.RELEASE.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lib/spring-beans-5.2.3.RELEASE.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lib/spring-binding-2.4.0.RELEASE.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lib/spring-context-5.2.3.RELEASE.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lib/spring-context-support-5.2.3.RELEASE.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lib/spring-core-5.2.3.RELEASE.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lib/spring-data-commons/2.2.4.RELEASE/spring-data-commons-2.2.4.RELEASE.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lib/spring-data-jpa/2.2.4.RELEASE/spring-data-jpa-2.2.4.RELEASE.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lib/spring-expression-5.2.3.RELEASE.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lib/spring-faces-2.4.0.RELEASE.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lib/spring-instrument-5.2.3.RELEASE.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lib/spring-integration-amqp/5.2.3.RELEASE/spring-integration-amqp-5.2.3.RELEASE.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lib/spring-integration-core/5.2.3.RELEASE/spring-integration-core-5.2.3.RELEASE.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lib/spring-integration-event/5.2.3.RELEASE/spring-integration-event-5.2.3.RELEASE.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lib/spring-integration-feed/5.2.3.RELEASE/spring-integration-feed-5.2.3.RELEASE.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lib/spring-integration-file/5.2.3.RELEASE/spring-integration-file-5.2.3.RELEASE.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lib/spring-integration-ftp/5.2.3.RELEASE/spring-integration-ftp-5.2.3.RELEASE.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lib/spring-integration-gemfire/5.2.3.RELEASE/spring-integration-gemfire-5.2.3.RELEASE.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lib/spring-integration-groovy/5.2.3.RELEASE/spring-integration-groovy-5.2.3.RELEASE.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lib/spring-integration-http/5.2.3.RELEASE/spring-integration-http-5.2.3.RELEASE.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lib/spring-integration-ip/5.2.3.RELEASE/spring-integration-ip-5.2.3.RELEASE.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lib/spring-integration-jdbc/5.2.3.RELEASE/spring-integration-jdbc-5.2.3.RELEASE.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lib/spring-integration-jms/5.2.3.RELEASE/spring-integration-jms-5.2.3.RELEASE.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lib/spring-integration-jmx/5.2.3.RELEASE/spring-integration-jmx-5.2.3.RELEASE.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lib/spring-integration-jpa/5.2.3.RELEASE/spring-integration-jpa-5.2.3.RELEASE.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lib/spring-integration-mail/5.2.3.RELEASE/spring-integration-mail-5.2.3.RELEASE.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lib/spring-integration-mongodb/5.2.3.RELEASE/spring-integration-mongodb-5.2.3.RELEASE.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lib/spring-integration-mqtt/5.2.3.RELEASE/spring-integration-mqtt-5.2.3.RELEASE.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lib/spring-integration-redis/5.2.3.RELEASE/spring-integration-redis-5.2.3.RELEASE.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lib/spring-integration-rmi/5.2.3.RELEASE/spring-integration-rmi-5.2.3.RELEASE.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lib/spring-integration-scripting/5.2.3.RELEASE/spring-integration-scripting-5.2.3.RELEASE.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lib/spring-integration-security/5.2.3.RELEASE/spring-integration-security-5.2.3.RELEASE.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lib/spring-integration-sftp/5.2.3.RELEASE/spring-integration-sftp-5.2.3.RELEASE.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lib/spring-integration-stream/5.2.3.RELEASE/spring-integration-stream-5.2.3.RELEASE.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lib/spring-integration-syslog/5.2.3.RELEASE/spring-integration-syslog-5.2.3.RELEASE.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lib/spring-integration-test/5.2.3.RELEASE/spring-integration-test-5.2.3.RELEASE.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lib/spring-integration-twitter/5.0.9.RELEASE/spring-integration-twitter-5.0.9.RELEASE.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lib/spring-integration-ws/5.2.3.RELEASE/spring-integration-ws-5.2.3.RELEASE.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lib/spring-integration-xml/5.2.3.RELEASE/spring-integration-xml-5.2.3.RELEASE.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lib/spring-integration-xmpp/5.2.3.RELEASE/spring-integration-xmpp-5.2.3.RELEASE.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lib/spring-jdbc-5.2.3.RELEASE.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lib/spring-jms-5.2.3.RELEASE.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lib/spring-js-2.4.0.RELEASE.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lib/spring-js-resources-2.4.0.RELEASE.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lib/spring-messaging-5.2.3.RELEASE.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lib/spring-orm-5.2.3.RELEASE.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lib/spring-oxm-5.2.3.RELEASE.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lib/spring-security-acl/5.2.1.RELEASE/spring-security-acl-5.2.1.RELEASE.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lib/spring-security-aspects/5.2.1.RELEASE/spring-security-aspects-5.2.1.RELEASE.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lib/spring-security-cas/5.2.1.RELEASE/spring-security-cas-5.2.1.RELEASE.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lib/spring-security-config/5.2.1.RELEASE/spring-security-config-5.2.1.RELEASE.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lib/spring-security-core/5.2.1.RELEASE/spring-security-core-5.2.1.RELEASE.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lib/spring-security-crypto/5.2.1.RELEASE/spring-security-crypto-5.2.1.RELEASE.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lib/spring-security-ldap/5.2.1.RELEASE/spring-security-ldap-5.2.1.RELEASE.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lib/spring-security-messaging/5.2.1.RELEASE/spring-security-messaging-5.2.1.RELEASE.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lib/spring-security-oauth2-core/5.2.1.RELEASE/spring-security-oauth2-core-5.2.1.RELEASE.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lib/spring-security-oauth2-resource-server/5.2.1.RELEASE/spring-security-oauth2-resource-server-5.2.1.RELEASE.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lib/spring-security-openid/5.2.1.RELEASE/spring-security-openid-5.2.1.RELEASE.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lib/spring-security-remoting/5.2.1.RELEASE/spring-security-remoting-5.2.1.RELEASE.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lib/spring-security-taglibs/5.2.1.RELEASE/spring-security-taglibs-5.2.1.RELEASE.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lib/spring-security-test/5.2.1.RELEASE/spring-security-test-5.2.1.RELEASE.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lib/spring-security-web/5.2.1.RELEASE/spring-security-web-5.2.1.RELEASE.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lib/spring-test-5.2.3.RELEASE.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lib/spring-tx-5.2.3.RELEASE.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lib/spring-web-5.2.3.RELEASE.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lib/spring-webflow-2.4.0.RELEASE.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lib/spring-webmvc-5.2.3.RELEASE.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lib/spring-ws.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lib/stax-ex-1.8.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lib/stax-ex.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lib/stax2-api.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lib/streambuffer.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lib/txw2-2.3.1.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lib/woodstox-core-asl.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/wine_xd/example/HelloWorld.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/example/HelloWorld.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/WEB-INF/applicationContext.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/WEB-INF/dispatcher-servlet.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/WEB-INF/sun-jaxws.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/WEB-INF/web.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/index.jsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/wine_xd.iml" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FavoritesManager">
+    <favorites_list name="wine_xd" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="spring-beans.schema" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="GithubDefaultAccount">
+    <option name="defaultAccountId" value="eb3851c3-52c3-49bc-abf1-1570d064faa8" />
+  </component>
+  <component name="ProjectId" id="1eES25My9zfkvo9iawd8LMmOlKG" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.proportion" value="0.0" />
+    <property name="project.structure.side.proportion" value="0.0" />
+    <property name="settings.editor.selected.configurable" value="settings.github" />
+  </component>
+  <component name="RunManager">
+    <configuration name="Tomcat 9.0.34" type="#com.intellij.j2ee.web.tomcat.TomcatRunConfigurationFactory" factoryName="Local" APPLICATION_SERVER_NAME="Tomcat 9.0.34" ALTERNATIVE_JRE_ENABLED="false">
+      <deployment>
+        <artifact name="wine_xd:war exploded">
+          <settings>
+            <option name="CONTEXT_PATH" value="/wine_xd_war_exploded" />
+          </settings>
+        </artifact>
+      </deployment>
+      <server-settings />
+      <predefined_log_file enabled="true" id="Tomcat" />
+      <predefined_log_file enabled="true" id="Tomcat Catalina" />
+      <predefined_log_file id="Tomcat Manager" />
+      <predefined_log_file id="Tomcat Host Manager" />
+      <predefined_log_file id="Tomcat Localhost Access" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+        <option name="BuildArtifacts" enabled="true">
+          <artifact name="wine_xd:war exploded" />
+        </option>
+      </method>
+    </configuration>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="d061ab74-84d9-4f73-8570-16c491fb8607" name="Default Changelist" comment="" />
+      <created>1593885048867</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1593885048867</updated>
+      <workItem from="1593885096184" duration="198000" />
+      <workItem from="1593885329826" duration="749000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="521" y="198" key="#Notifications" timestamp="1593886094061">
+      <screen x="0" y="0" width="1858" height="1080" />
+    </state>
+    <state x="521" y="198" key="#Notifications/-1920.0.1858.1080/0.0.1858.1080@0.0.1858.1080" timestamp="1593886094061" />
+    <state x="648" y="432" key="#com.intellij.ws.actions.GenerateJavaFromWsdlDialog" timestamp="1593885302734">
+      <screen x="0" y="0" width="1858" height="1080" />
+    </state>
+    <state x="648" y="432" key="#com.intellij.ws.actions.GenerateJavaFromWsdlDialog/-1920.0.1858.1080/0.0.1858.1080@0.0.1858.1080" timestamp="1593885302734" />
+    <state x="751" y="455" key="Github.CreateGistDialog" timestamp="1593886005000">
+      <screen x="0" y="0" width="1858" height="1080" />
+    </state>
+    <state x="751" y="455" key="Github.CreateGistDialog/-1920.0.1858.1080/0.0.1858.1080@0.0.1858.1080" timestamp="1593886005000" />
+    <state x="430" y="182" key="SettingsEditor" timestamp="1593885797187">
+      <screen x="0" y="0" width="1858" height="1080" />
+    </state>
+    <state x="430" y="182" key="SettingsEditor/-1920.0.1858.1080/0.0.1858.1080@0.0.1858.1080" timestamp="1593885797187" />
+    <state x="608" y="363" key="com.intellij.ide.util.TipDialog" timestamp="1593885347836">
+      <screen x="0" y="0" width="1858" height="1080" />
+    </state>
+    <state x="608" y="363" key="com.intellij.ide.util.TipDialog/-1920.0.1858.1080/0.0.1858.1080@0.0.1858.1080" timestamp="1593885347836" />
+  </component>
+</project>
